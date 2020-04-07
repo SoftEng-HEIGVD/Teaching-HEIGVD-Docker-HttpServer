@@ -1,0 +1,1 @@
+docker run -d -p 8989:80 oliechti/http-server
